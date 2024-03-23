@@ -329,7 +329,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(repl-hor.png);
+        background-image: url(repl-hori.png);
     }
     .header-text{
         margin-top: 100%;
